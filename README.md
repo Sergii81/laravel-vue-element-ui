@@ -2,7 +2,7 @@ php 8.2
 
 laravel 10.10
 
-Install
+## Install
  - git clone https://github.com/Sergii81/laravel-test.git
  - composer install
  - cp env.example .env
@@ -20,6 +20,6 @@ Install
  - npm run dev
  - php artisan serv
 
-The application is available at http://127.0.0.1:8000/
+### The application is available at http://127.0.0.1:8000/
 
 
