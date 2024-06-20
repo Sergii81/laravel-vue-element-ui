@@ -3,7 +3,7 @@ php 8.2
 laravel 10.10
 
 ## Install
- - git clone https://github.com/Sergii81/laravel-test.git
+ - git clone https://github.com/Sergii81/laravel-vue-element-ui.git
  - composer install
  - cp env.example .env
  - php artisan key:generate
